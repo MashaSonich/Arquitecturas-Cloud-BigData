@@ -6,3 +6,7 @@
 # Dia 2
 # Programacion funcional, funciones lambda, condicion map, funcion filter
 # Análisis de las ubicaciones de los sitios de lanzamiento con Folium
+# Dia 3
+# RDDs Teoria 
+# Spark Session & Spark Context
+# RDDs + programacion funcional, transformaciones & acciones
